@@ -1,0 +1,11 @@
+:root {
+    --primary-color: rgb(226, 49, 43);
+    --secondry-color: white;
+
+    --warning-color: red;
+
+    --font-headline: 48px;
+    --font-pagename: 34px;
+
+    --fontfamily-header: 'Titillium Web', sans-serif;
+}

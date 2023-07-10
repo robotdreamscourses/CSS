@@ -1,0 +1,42 @@
+@import url(/variables.css);
+@import url(/menu.css);
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: var(--font-headline);
+    font-family: var(--fontfamily-header);
+}
+
+h2 {
+    color: var(--primary-color);
+}
+
+p {
+    color: black;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 120px;
+
+    background-color: blue; 
+}
+
+/* .logo {
+    order: 2;
+}
+.button {
+    order: 3;
+} */
+
+.grid {
+    display: grid;
+}

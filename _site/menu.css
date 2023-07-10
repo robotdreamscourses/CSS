@@ -1,0 +1,14 @@
+.menu {
+    order: -1;
+    height: 80px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+    flex-grow: 1;
+
+
+    background-color: pink;
+}
